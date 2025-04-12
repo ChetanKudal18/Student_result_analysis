@@ -4,32 +4,31 @@ A web-based system designed to analyze and manage student results. This platform
 
 🚀 Features
 
- - Student Result Upload: Students can upload their results in formats such as PDF or CSV.
+- Student Result Upload: Students can upload their results in formats such as PDF or CSV.
+- Result Analysis: Analyze student performance based on marks, subjects, and generate charts for insights.
 
-📊 Result Analysis: Analyze student performance based on marks, subjects, and generate charts for insights.
+- Download Combined Results: Faculty can download the results of all students in a single CSV format for further processing.
 
-📑 Download Combined Results: Faculty can download the results of all students in a single CSV format for further processing.
+- User Authentication: Students and faculty can sign up, log in, and access their respective dashboards.
 
-🔒 User Authentication: Students and faculty can sign up, log in, and access their respective dashboards.
+- Result Reports: Generate detailed reports for individual students, showing grades, subject-wise performance, and overall percentage.
 
-📝 Result Reports: Generate detailed reports for individual students, showing grades, subject-wise performance, and overall percentage.
+- Dashboard: Students and faculty have personalized dashboards displaying important statistics, charts, and recent updates.
 
-📈 Dashboard: Students and faculty have personalized dashboards displaying important statistics, charts, and recent updates.
-
-🗂️ File Management: Upload, manage, and store student result files securely
+- File Management: Upload, manage, and store student result files securely
 
 
 
 🧰 Tech Stack
 
 
-Backend:Django
+- Backend:Django
 
-Frontend:HTML-CSS-JS
+- Frontend:HTML-CSS-JS
 
-Database:SQL
+- Database:SQL
 
-File Parsing: PyPDF2 / Pandas (for CSV/Excel processing)
+- File Parsing: PyPDF2 / Pandas (for CSV/Excel processing)
 
 🧑‍💻 Author:
 Chetan Basavaraj Kudal
