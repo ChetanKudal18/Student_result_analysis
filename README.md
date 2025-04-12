@@ -4,7 +4,7 @@ A web-based system designed to analyze and manage student results. This platform
 
 🚀 Features
 
- Student Result Upload: Students can upload their results in formats such as PDF or CSV.
+ **Student Result Upload: Students can upload their results in formats such as PDF or CSV.**
 
 📊 Result Analysis: Analyze student performance based on marks, subjects, and generate charts for insights.
 
