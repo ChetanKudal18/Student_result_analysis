@@ -31,5 +31,5 @@ A web-based system designed to analyze and manage student results. This platform
 - File Parsing: PyPDF2 / Pandas (for CSV/Excel processing)
 
 🧑‍💻 Author:
-Chetan Basavaraj Kudal
+Chetan Basavaraj Kudal --
 LinkedIn: https://www.linkedin.com/in/chetan-kudal-258240270
