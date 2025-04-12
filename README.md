@@ -21,7 +21,7 @@ A web-based system designed to analyze and manage student results. This platform
 
 🧰 Tech Stack
 
-
+- Language: Python
 - Backend:Django
 
 - Frontend:HTML-CSS-JS
