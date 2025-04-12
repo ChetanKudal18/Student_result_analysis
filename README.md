@@ -3,6 +3,8 @@
 A web-based system designed to analyze and manage student results. This platform allows students to upload their results, view detailed analysis of their performance, and helps faculty to track and download results in a comprehensive format.
 
 🚀 Features
+
+
 📥 Student Result Upload: Students can upload their results in formats such as PDF or CSV.
 📊 Result Analysis: Analyze student performance based on marks, subjects, and generate charts for insights.
 📑 Download Combined Results: Faculty can download the results of all students in a single CSV format for further processing.
@@ -12,6 +14,8 @@ A web-based system designed to analyze and manage student results. This platform
 🗂️ File Management: Upload, manage, and store student result files securely
 
 🧰 Tech Stack
+
+
 Backend:Django
 Frontend:HTML-CSS-JS
 Database:SQL
